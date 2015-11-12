@@ -1,0 +1,18 @@
+using System;
+
+namespace IHIS.CloudConnector.Contracts.Results.Nuts
+{
+	public class NUT0001U00GetNaewonKeyResult : AbstractContractResult
+	{
+		private String _result;
+
+		public String Result
+		{
+			get { return this._result; }
+			set { this._result = value; }
+		}
+
+		public NUT0001U00GetNaewonKeyResult() { }
+
+	}
+}

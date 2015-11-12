@@ -1,0 +1,18 @@
+using System;
+
+namespace IHIS.CloudConnector.Contracts.Results.Ocsa
+{
+	public class OCS0301Q09IsDoctorResult : AbstractContractResult
+	{
+		private String _result;
+
+		public String Result
+		{
+			get { return this._result; }
+			set { this._result = value; }
+		}
+
+		public OCS0301Q09IsDoctorResult() { }
+
+	}
+}

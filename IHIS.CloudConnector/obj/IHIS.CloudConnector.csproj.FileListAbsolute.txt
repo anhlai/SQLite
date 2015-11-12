@@ -1,0 +1,16 @@
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\bin\Debug\Mappings\mappings.otis.xml
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\bin\Debug\IHIS.CloudConnector.dll
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\bin\Debug\IHIS.CloudConnector.pdb
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\bin\Debug\Iesi.Collections.dll
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\bin\Debug\Otis.dll
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\bin\Debug\protobuf-net.dll
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\bin\Debug\WebSocket4Net.dll
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\obj\Debug\ResolveAssemblyReference.cache
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\obj\Debug\IHIS.CloudConnector.Mappings.mappings.otis.xml
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\obj\Debug\IHIS.CloudConnector.dll
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\obj\Debug\IHIS.CloudConnector.pdb
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\bin\Debug\IHIS.CloudConnector.dll.config
+D:\nextop-svn\med\src\01.trunk\IHIS\IHIS.Cloud\IHIS.CloudConnector\bin\Debug\System.Data.SQLite.dll

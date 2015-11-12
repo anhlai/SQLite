@@ -1,0 +1,20 @@
+using System;
+using IHIS.CloudConnector.Contracts.Models.Bass;
+using System.Collections.Generic;
+
+namespace IHIS.CloudConnector.Contracts.Results.Bass
+{
+    public class BAS0311U00GridListResult : AbstractContractResult
+    {
+        private List<BAS0311U00GridListItemInfo> _dt = new List<BAS0311U00GridListItemInfo>();
+
+        public List<BAS0311U00GridListItemInfo> Dt
+        {
+            get { return this._dt; }
+            set { this._dt = value; }
+        }
+
+        public BAS0311U00GridListResult() { }
+
+    }
+}
